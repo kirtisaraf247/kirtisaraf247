@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kirtisaraf247
-- 🌱 I’m currently learning C/C++ and persuing B.Tech degree in CS from Global Engineering College, Jabalpur...
+- 🌱 I’m currently learning C/C++ and persuing B.Tech degree in CS from Global Engineering College, Jabalpur....
 - 📫 You can reach me through email i.e. kirtisaraf247@gmail.com
 
 <!---
