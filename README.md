@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @kirtisaraf247
-- 🌱 I’m currently learning C/C++ and pursuing B.Tech degree in CS from Global Engineering College, Jabalpur....
+- 🌱 I’m currently learning Python/SQL and pursuing B.Tech degree in CS from Global Engineering College, Jabalpur....
 - 📫 You can reach me through email i.e. kirtisaraf247@gmail.com
+- 😊I'm an adaptive learner who's ever ready to learn something new and I love to learn new technologies.
 
 <!---
 kirtisaraf247/kirtisaraf247 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
